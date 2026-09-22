@@ -1,5 +1,7 @@
 # Exact limits on entangled readout of local Pauli observables with noisy entangling gates
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22885706.svg)](https://doi.org/10.5281/zenodo.22885706)
+
 Code and data for the article by **Jiachen Shen** (University of Houston) and **Hui Zhong** (Miami University,
 corresponding author, zhongh7@miamioh.edu).
 
@@ -119,5 +121,6 @@ Code: MIT (`LICENSE`). Data, figures and Source Data: CC BY 4.0 (`LICENSE-DATA`)
 
 ## Citation
 
-If you use this code or data, please cite the article (reference to be added on publication) and this repository
-(`CITATION.cff`).
+If you use this code or data, please cite the article (reference to be added on publication) and the archived
+release: Shen, J. & Zhong, H. Code and data for: Exact limits on entangled readout of local Pauli observables with
+noisy entangling gates. Zenodo https://doi.org/10.5281/zenodo.22885706 (2026).
