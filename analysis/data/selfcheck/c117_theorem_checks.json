@@ -295,32 +295,32 @@
   "detail": "6.00"
  },
  {
-  "check": "RF57: process fidelity 0.8279655446",
+  "check": "correlated channel: process fidelity 0.8279655446",
   "ok": true,
   "detail": ""
  },
  {
-  "check": "RF57: f1 = (5eta-1)/4",
+  "check": "correlated channel: f1 = (5eta-1)/4",
   "ok": true,
   "detail": "0.7706207262"
  },
  {
-  "check": "RF57: f2 = (5eta+1)/6",
+  "check": "correlated channel: f2 = (5eta+1)/6",
   "ok": true,
   "detail": "0.8470804841"
  },
  {
-  "check": "RF57: r_B = 0.6350859846 < 2/3",
+  "check": "correlated channel: r_B = 0.6350859846 < 2/3",
   "ok": true,
   "detail": "0.6350859846"
  },
  {
-  "check": "RF57: 3+4/r_B = 9.30 > 9 -> Bell does not help",
+  "check": "correlated channel: balancing weight gives 3+4/r_B = 9.30 > 9",
   "ok": true,
   "detail": ""
  },
  {
-  "check": "RF57: pair depolarising at same fidelity has f = eta* on every Pauli",
+  "check": "correlated channel: pair depolarising at same fidelity has f = eta* on every Pauli",
   "ok": true,
   "detail": ""
  }
