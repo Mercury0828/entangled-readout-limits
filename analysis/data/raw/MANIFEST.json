@@ -1,0 +1,26 @@
+{
+ "dam6td02fm4c73f2gl1g": {
+  "file": "raw/dam6td02fm4c73f2gl1g.json",
+  "sha256": "eb60672c1cea119a9382757ddb5c957ef43be90260f9df80075acee5f633999e",
+  "use": "c101 engineered-noise sweep (Supplementary)",
+  "bytes": 4982753
+ },
+ "daoa3j8pqrnc7399miv0": {
+  "file": "raw/daoa3j8pqrnc7399miv0.json",
+  "sha256": "6826c183db59b2c282a7ae3082b266b0ef3bb4d64539ea84a6a603070de37520",
+  "use": "c108 held-out experiment; c110 paired regression (Fig. 3)",
+  "bytes": 8144139
+ },
+ "daobh65r85ps73ff233g": {
+  "file": "raw/daobh65r85ps73ff233g.json",
+  "sha256": "8186bc63139a86ea4307d7ffdf0c3e91f92425c30d735035098e4a91e4d2c654",
+  "use": "c112 target-resolved calibration (Fig. 3b)",
+  "bytes": 1772299
+ },
+ "daoduuo2fm4c73f5acpg": {
+  "file": "sealed/c114_raw.json",
+  "sha256": "0fd54ec8eaf58b95b0a7d45217b45b499a769d9fd10633955b31adc41c47213d",
+  "use": "c114 sealed replication (Fig. 4, 5)",
+  "bytes": 3880326
+ }
+}

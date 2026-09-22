@@ -1,0 +1,327 @@
+[
+ {
+  "check": "T1: 27 incident edge Paulis",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T1: groups partition the 27",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T1: group 0 pairwise anticommuting (symbolic)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T1: group 0 pairwise anticommuting (matrices)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T1: group 1 pairwise anticommuting (symbolic)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T1: group 1 pairwise anticommuting (matrices)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T1: group 2 pairwise anticommuting (symbolic)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T1: group 2 pairwise anticommuting (matrices)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T1: max anticommuting family among the 27 has size 9",
+  "ok": true,
+  "detail": "omega = 9"
+ },
+ {
+  "check": "T1: complementarity sum_P <P>^2 <= 1 on 200 random states",
+  "ok": true,
+  "detail": "max = 0.105676"
+ },
+ {
+  "check": "T1: complementarity attained",
+  "ok": true,
+  "detail": "1.000000000000"
+ },
+ {
+  "check": "T1: product second moment = 9 on every edge Pauli, state-independent",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T1: product second moment = 3 on single-site Paulis",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T1: product measurement executes no two-qubit gate -> constant 9 for ANY gate-noise model",
+  "ok": true,
+  "detail": "structural: the attaining design has no entangling gate, so no gate noise can act"
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.82",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.82)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.83",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.83)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.84",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.84)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.85",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.85)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.86",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.86)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.87",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.87)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.88",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.88)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.89",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.89)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.90",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.90)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.91",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.91)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.92",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.92)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.93",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.93)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.94",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.94)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.95",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.95)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.96",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.96)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.97",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.97)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.98",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.98)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=0.99",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=0.99)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: w* = 3r/(4+3r) at eta=1.00",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: design attains 3+4/r at w* (eta=1.00)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: grid minimax of the design = closed form, eta in [0.3, 1]",
+  "ok": true,
+  "detail": "max err 6.42e-06"
+ },
+ {
+  "check": "T2: continuity at the threshold",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: at the threshold the Bell edge slope r/6 - 1/9 = 0",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: threshold average gate infidelity 3(1-eta*)/4 = 13.76%",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "T2: kink left slope -16.33",
+  "ok": true,
+  "detail": "-16.3333"
+ },
+ {
+  "check": "T2: kink right slope +2.72",
+  "ok": true,
+  "detail": "2.7222"
+ },
+ {
+  "check": "T2: the optimum is a kink, not flat (asymmetry ~6x)",
+  "ok": true,
+  "detail": "6.00"
+ },
+ {
+  "check": "RF57: process fidelity 0.8279655446",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "RF57: f1 = (5eta-1)/4",
+  "ok": true,
+  "detail": "0.7706207262"
+ },
+ {
+  "check": "RF57: f2 = (5eta+1)/6",
+  "ok": true,
+  "detail": "0.8470804841"
+ },
+ {
+  "check": "RF57: r_B = 0.6350859846 < 2/3",
+  "ok": true,
+  "detail": "0.6350859846"
+ },
+ {
+  "check": "RF57: 3+4/r_B = 9.30 > 9 -> Bell does not help",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "RF57: pair depolarising at same fidelity has f = eta* on every Pauli",
+  "ok": true,
+  "detail": ""
+ }
+]

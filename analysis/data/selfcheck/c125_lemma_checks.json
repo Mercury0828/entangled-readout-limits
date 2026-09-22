@@ -1,0 +1,7 @@
+{
+ "max_touched_excess": 2.220446049250313e-15,
+ "max_untouched_A_excess": 1.1102230246251565e-15,
+ "max_untouched_B_excess": 1.7763568394002505e-15,
+ "max_pauli_excess": -0.1587353900477333,
+ "bell_A_plus_B": 2.9999999999999996
+}

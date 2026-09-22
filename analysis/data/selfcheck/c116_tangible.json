@@ -1,0 +1,60 @@
+{
+  "threshold": {
+    "eta": 0.816496580927726,
+    "avg_gate_infidelity": 0.13762756430420547,
+    "entanglement_infidelity": 0.17203445538025686,
+    "replacement_probability": 0.18350341907227397
+  },
+  "device": {
+    "vendor_2q_error": 0.00168,
+    "eta_consistent": 0.99776,
+    "eta_used_in_hardware_work": 0.99832,
+    "margin_below_threshold": 81.92116922869373
+  },
+  "theorem1": {
+    "eps": 0.01,
+    "copies_product": 90000.0,
+    "statement": "no single-copy measurement, entangled or not, needs fewer"
+  },
+  "theorem2": {
+    "perfect gates": {
+      "eta": 1.0,
+      "C": 7.0,
+      "copies": 70000.0,
+      "copies_saved": 20000.0,
+      "fraction_saved": 0.2222222222222222
+    },
+    "this device (consistent)": {
+      "eta": 0.99776,
+      "C": 7.0179803915356676,
+      "copies": 70179.80391535668,
+      "copies_saved": 19820.196084643325,
+      "fraction_saved": 0.22022440094048135
+    },
+    "this device (as used)": {
+      "eta": 0.99832,
+      "C": 7.013473944825752,
+      "copies": 70134.73944825752,
+      "copies_saved": 19865.260551742478,
+      "fraction_saved": 0.22072511724158306
+    },
+    "at the threshold": {
+      "eta": 0.816496580927726,
+      "C": 9.0,
+      "copies": 90000.0,
+      "copies_saved": 0.0,
+      "fraction_saved": 0.0
+    }
+  },
+  "units_discrepancy_in_C": 0.0045064467099154015,
+  "transfer_tolerance": {
+    "tau": 0.008479386770280031,
+    "copies_budget": 10000.0,
+    "meaning": "bias allowed before it adds >10% to the best mixture MSE"
+  },
+  "risk_projection": {
+    "advantage_at_1e2": 0.1957626154485702,
+    "advantage_at_1e5": 0.15987923202538745,
+    "simultaneous_bound": 0.944592121752909
+  }
+}

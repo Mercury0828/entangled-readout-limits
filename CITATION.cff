@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Code and data for: Exact limits on entangled readout of local Pauli observables with noisy entangling gates"
+version: 1.0.0
+date-released: 2026-09-21
+license: MIT
+authors:
+  - family-names: Shen
+    given-names: Jiachen
+    affiliation: University of Houston
+  - family-names: Zhong
+    given-names: Hui
+    affiliation: Miami University
+    email: zhongh7@miamioh.edu

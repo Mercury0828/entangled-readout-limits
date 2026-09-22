@@ -1,0 +1,11 @@
+{
+  "title": "Code and data for: Exact limits on entangled readout of local Pauli observables with noisy entangling gates",
+  "upload_type": "software",
+  "description": "Raw measurement counts of the IBM Quantum device jobs, the staged analysis and committed predictions of the pre-registered prospective test, the scripts that produce every number, table and figure, and the executable test suites.",
+  "creators": [
+    {"name": "Shen, Jiachen", "affiliation": "University of Houston"},
+    {"name": "Zhong, Hui", "affiliation": "Miami University"}
+  ],
+  "license": "MIT",
+  "keywords": ["quantum measurement", "classical shadows", "minimax estimation", "Bell measurement", "pre-registration"]
+}

@@ -1,0 +1,25 @@
+{
+ "interval_endpoint": {
+  "target": {
+   "B": 0.002835022768974792,
+   "UB95": 0.005799912199415118,
+   "certified": true
+  },
+  "pooled": {
+   "B": 0.007969829621898529,
+   "UB95": 0.011255213027895594,
+   "certified": false
+  }
+ },
+ "continuous": {
+  "target": {
+   "grid_sim_hi": 0.9445921217529089,
+   "continuous_sim_hi": 0.9445921217529089
+  },
+  "pooled": {
+   "grid_sim_hi": 1.0384894297247087,
+   "continuous_sim_hi": 1.0384894297247087
+  }
+ },
+ "tau": 0.0085
+}
